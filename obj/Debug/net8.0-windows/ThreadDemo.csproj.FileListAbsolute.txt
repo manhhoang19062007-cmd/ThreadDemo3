@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.Form1.resources
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.csproj.GenerateResource.cache
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\ThreadDemo\bin\Debug\net8.0-windows\ThreadDemo.exe
+C:\Users\ADMIN\Documents\ThreadDemo\bin\Debug\net8.0-windows\ThreadDemo.deps.json
+C:\Users\ADMIN\Documents\ThreadDemo\bin\Debug\net8.0-windows\ThreadDemo.runtimeconfig.json
+C:\Users\ADMIN\Documents\ThreadDemo\bin\Debug\net8.0-windows\ThreadDemo.dll
+C:\Users\ADMIN\Documents\ThreadDemo\bin\Debug\net8.0-windows\ThreadDemo.pdb
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.dll
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\refint\ThreadDemo.dll
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.pdb
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ThreadDemo.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\ThreadDemo\obj\Debug\net8.0-windows\ref\ThreadDemo.dll

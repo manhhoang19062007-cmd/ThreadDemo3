@@ -1,0 +1,69 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\1.bmp" />
+    <None Remove="Resources\10.bmp" />
+    <None Remove="Resources\11.bmp" />
+    <None Remove="Resources\12.bmp" />
+    <None Remove="Resources\13.bmp" />
+    <None Remove="Resources\14.bmp" />
+    <None Remove="Resources\15.bmp" />
+    <None Remove="Resources\16.bmp" />
+    <None Remove="Resources\17.bmp" />
+    <None Remove="Resources\18.bmp" />
+    <None Remove="Resources\19.bmp" />
+    <None Remove="Resources\2.bmp" />
+    <None Remove="Resources\20.bmp" />
+    <None Remove="Resources\21.bmp" />
+    <None Remove="Resources\22.bmp" />
+    <None Remove="Resources\23.bmp" />
+    <None Remove="Resources\24.bmp" />
+    <None Remove="Resources\25.bmp" />
+    <None Remove="Resources\26.bmp" />
+    <None Remove="Resources\3.bmp" />
+    <None Remove="Resources\4.bmp" />
+    <None Remove="Resources\5.bmp" />
+    <None Remove="Resources\6.bmp" />
+    <None Remove="Resources\7.bmp" />
+    <None Remove="Resources\8.bmp" />
+    <None Remove="Resources\9.bmp" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\1.bmp" />
+    <EmbeddedResource Include="Resources\10.bmp" />
+    <EmbeddedResource Include="Resources\11.bmp" />
+    <EmbeddedResource Include="Resources\12.bmp" />
+    <EmbeddedResource Include="Resources\13.bmp" />
+    <EmbeddedResource Include="Resources\14.bmp" />
+    <EmbeddedResource Include="Resources\15.bmp" />
+    <EmbeddedResource Include="Resources\16.bmp" />
+    <EmbeddedResource Include="Resources\17.bmp" />
+    <EmbeddedResource Include="Resources\18.bmp" />
+    <EmbeddedResource Include="Resources\19.bmp" />
+    <EmbeddedResource Include="Resources\2.bmp" />
+    <EmbeddedResource Include="Resources\20.bmp" />
+    <EmbeddedResource Include="Resources\21.bmp" />
+    <EmbeddedResource Include="Resources\22.bmp" />
+    <EmbeddedResource Include="Resources\23.bmp" />
+    <EmbeddedResource Include="Resources\24.bmp" />
+    <EmbeddedResource Include="Resources\25.bmp" />
+    <EmbeddedResource Include="Resources\26.bmp" />
+    <EmbeddedResource Include="Resources\3.bmp" />
+    <EmbeddedResource Include="Resources\4.bmp" />
+    <EmbeddedResource Include="Resources\5.bmp" />
+    <EmbeddedResource Include="Resources\6.bmp" />
+    <EmbeddedResource Include="Resources\7.bmp" />
+    <EmbeddedResource Include="Resources\8.bmp" />
+    <EmbeddedResource Include="Resources\9.bmp" />
+  </ItemGroup>
+
+</Project>
